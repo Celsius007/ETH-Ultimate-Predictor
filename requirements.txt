@@ -3,6 +3,8 @@ pandas
 scikit-learn
 yfinance
 matplotlib
-#ta-lib
+ta-lib
+seaborn
 pycoingecko
 jupyter
+tensorflow
